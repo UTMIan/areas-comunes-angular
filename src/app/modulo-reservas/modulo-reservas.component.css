@@ -1,0 +1,21 @@
+.mat-grid-tile{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15%;
+    border: 2px solid blue;
+}
+
+.grid-container{
+    margin: 150px;
+}
+
+:host h1{
+    color: white;
+}
+
+:host header{
+    background-color: blue;
+}
+
+.mat-icon{
+    font-size: 25px;
+}
